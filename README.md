@@ -26,3 +26,7 @@ Welcome to the HuskyHub - University Student Management System project! This Jav
 - The `lib/db4o.jar` library is included for DB4O support.
 
 ![HuskyHub-UML](https://github.com/roarceus/HuskyHub/blob/main/HuskyHub-UML.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
